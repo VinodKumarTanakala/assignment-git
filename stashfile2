@@ -1,3 +1,7 @@
 Hi 
 This is vinod
+<<<<<<< HEAD
 I am a devops engineer
+=======
+I am from vizag
+>>>>>>> 5ac06fa4345a1898ce0c8b0b6a435048e470b4eb
